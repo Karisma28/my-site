@@ -1,0 +1,37 @@
+.color-special {
+    background-color: black;
+}
+.color-lucu {
+    background-color: white;
+}
+.color-uwwu {
+    background-color: yellow;
+}
+.Profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+.ProfileImage {
+    width: 200px;
+}
+.Profile h2 {
+    color: black;
+    transform: translateY(10px);
+}
+.Profile h4 {
+    color: black;
+    transform: translateY(10px);
+}
+.col h2 {
+    transform: translateY(10px);
+}
+.col-4 p {
+    text-align: justify;
+    transform: translateY(10px);
+}
+.col2 h2 {
+    transform: translateY(20px);
+}
